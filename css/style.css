@@ -1,0 +1,8 @@
+.box {
+	min-height: 100px;
+	background: red;
+	margin:5px 0;
+}
+.h_300 {
+	height: 300px;
+}
